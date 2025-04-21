@@ -13,6 +13,7 @@ Here you can find a list of the notebooks and their descriptions.
 |----------|-------------|
 | [Intro to Numpy](notebooks/Lesson%20II%20-%20Numpy%20Intro.ipynb) | Introduction to the NumPy package. |
 | [Intro to Pandas](notebooks/intro_to_pandas%20.ipynb) | Introduction to the Pandas package. |
+| [Intro to Matplotlib and Seaborn](notebooks/Lesson%20V-%20Matplotlib%20intro.ipynb) | Introduction to the Matplotlib and Seaborn package. |
 
 ---
 

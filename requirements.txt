@@ -5,3 +5,4 @@ numpy == 2.2.4
 Pillow==11.1.0 #llibreria per llegir fotos
 requests==2.32.3 #s'utilitza per fer peticions HTTP (com descarregar imatges d'Internet).
 pandas == 2.2.3
+matplotlib == 3.3.1
